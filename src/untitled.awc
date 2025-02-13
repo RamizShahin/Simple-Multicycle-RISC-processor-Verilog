@@ -1,0 +1,68 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="3c7c3feea7b748f26f66725169020700">wave.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/tb_design2/clk</signal>
+        <signal>/tb_design2/uut/U1/en</signal>
+        <signal>/tb_design2/uut/U1/in</signal>
+        <signal>/tb_design2/uut/U1/out</signal>
+        <signal>/tb_design2/uut/U16/mem</signal>
+        <signal>/tb_design2/uut/U16/address</signal>
+        <signal>/tb_design2/uut/U16/datain</signal>
+        <signal>/tb_design2/uut/U16/memread</signal>
+        <signal>/tb_design2/uut/U16/memwrite</signal>
+        <signal>/tb_design2/uut/U16/wrByte</signal>
+        <signal>/tb_design2/uut/U16/dataout</signal>
+        <signal>/tb_design2/uut/U2/mem</signal>
+        <signal>/tb_design2/uut/U2/instruction</signal>
+        <signal>/tb_design2/uut/U8/register</signal>
+        <signal>/tb_design2/uut/U8/en</signal>
+        <signal>/tb_design2/uut/U8/RA</signal>
+        <signal>/tb_design2/uut/U8/RB</signal>
+        <signal>/tb_design2/uut/U8/RW</signal>
+        <signal>/tb_design2/uut/U8/BUSA</signal>
+        <signal>/tb_design2/uut/U8/BUSB</signal>
+        <signal>/tb_design2/uut/U8/BUSW</signal>
+        <signal>/tb_design2/uut/U25/stage</signal>
+        <signal>/tb_design2/uut/U7/takeBranch</signal>
+        <signal>/tb_design2/uut/U7/operandA</signal>
+        <signal>/tb_design2/uut/U7/operandB</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="1532" end_time="2996" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="2010" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="-1" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
